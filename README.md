@@ -17,7 +17,7 @@ openai : i use it for the gpt llm so i use gpt-4o-mini because the token limit i
 
 
 
-📂 Setup
+## 📂 Setup
 
 
 1️⃣ Clone this repository
@@ -33,7 +33,7 @@ Edit .env and fill in your API key and preferred GPT model.
 streamlit run main.py / then the app gonna popup in the browser 
 
 
-💻 How to Use:
+## 💻 How to Use:
 
 ✅ Once the app is running in your browser:
 
@@ -53,3 +53,4 @@ Read or copy the summary for your own use!
 
 
 
+NB: i well try to chunk the transcript so if the transcript it to long it gonna Summarizer it 
